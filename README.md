@@ -48,7 +48,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em seu ambiente:
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone <coloca o link do repositório aqui>
+   git clone https://github.com/THAISHRM/gerenciamento_backend.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -160,3 +160,8 @@ Você pode utilizar o **Postman** ou outra ferramenta de sua preferência para t
 - **Maven**: Gerenciamento de dependências.
 
 —
+
+## Equipe
+- Ângelo Santos ()
+- Thais
+- Livya

@@ -162,6 +162,35 @@ Você pode utilizar o **Postman** ou outra ferramenta de sua preferência para t
 —
 
 ## Equipe
-- Ângelo Santos ()
-- Thais
-- Livya
+
+<table>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/AngeloRafaelbr">
+        <img src="https://avatars.githubusercontent.com/u/147670666?v=4" width="100px;" alt="Foto do Ângelo"/><br>
+        <sub>
+          <b>Ângelo Santos - 01589358</b>
+        </sub>
+      </a>
+    </td>
+   
+   <td align="center">
+      <a href="https://github.com/livyagdc">
+        <img src="https://avatars.githubusercontent.com/u/144238732?v=4" width="100px;" alt="Foto da Livya"/><br>
+        <sub>
+          <b>Livya Carvalho - 01645272</b>
+        </sub>
+      </a>
+    </td>
+   
+   <td align="center">
+      <a href="https://github.com/THAISHRM">
+        <img src="https://avatars.githubusercontent.com/u/144055463?v=4" width="100px;" alt="Foto da Thais"/><br>
+        <sub>
+          <b>Thais Melo - 01068175</b>
+        </sub>
+      </a>
+   </td>
+    
+  </tr>
+</table>
